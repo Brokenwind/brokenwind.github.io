@@ -1,14 +1,14 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "brokenwind-blog",
+    "title": "Brokenwind Blog",
+    "author": "Brokenwind <wangkun6536@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://brokenwind.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/Brokenwind/brokenwind.github.io"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/Brokenwind/brokenwind.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
